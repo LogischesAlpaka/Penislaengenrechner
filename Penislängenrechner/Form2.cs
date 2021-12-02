@@ -157,7 +157,7 @@ namespace Penislängenrechner
 
         private void toolStripLabel1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/LogischesAlpaka/Penislaengenrechner/releases");
+            System.Diagnostics.Process.Start("https://github.com/LogischesAlpaka/Penislaengenrechner/releases/latest");
         }
 
         private void Form2_Load(object sender, EventArgs e)
