@@ -45,7 +45,7 @@ namespace Penislängenrechner
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(281, 34);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Version 1.03\r\nDie jeweils aktuellste Version findet ihr hier:";
+            this.label2.Text = "Version 1.05\r\nDie jeweils aktuellste Version findet ihr hier:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
@@ -63,7 +63,7 @@ namespace Penislängenrechner
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(21, 109);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(531, 119);
+            this.label4.Size = new System.Drawing.Size(640, 459);
             this.label4.TabIndex = 9;
             this.label4.Text = resources.GetString("label4.Text");
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -71,7 +71,7 @@ namespace Penislängenrechner
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(24, 241);
+            this.linkLabel1.Location = new System.Drawing.Point(18, 588);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(188, 17);
             this.linkLabel1.TabIndex = 10;
@@ -94,7 +94,7 @@ namespace Penislängenrechner
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(591, 290);
+            this.ClientSize = new System.Drawing.Size(732, 614);
             this.Controls.Add(this.linkLabel2);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.label4);

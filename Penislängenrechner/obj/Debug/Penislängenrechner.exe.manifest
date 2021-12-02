@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Penislängenrechner.exe" size="24536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Penislängenrechner.exe" size="25560">
       <assemblyIdentity name="Penislängenrechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d1Zh4KR+g/8reEtDDA1uLQziCciExYtGMB9TYQ2fuQQ=</dsig:DigestValue>
+        <dsig:DigestValue>1Iq2CmgW0RnIRZyY8uysL1bH975om/wxBdxn8pumuA4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
