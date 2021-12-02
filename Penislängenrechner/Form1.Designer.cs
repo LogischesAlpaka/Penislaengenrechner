@@ -63,9 +63,9 @@ namespace Penislängenrechner
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.label2.Location = new System.Drawing.Point(22, 62);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(294, 68);
+            this.label2.Size = new System.Drawing.Size(294, 51);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Version 1.04\r\n\r\n+ neue Updatefunktion (monatliche Updates!)\r\n+ kleinere Bugfixes";
+            this.label2.Text = "Version 1.05\n+ neue Updatefunktion (monatliche Updates!)\r\n+ kleinere Bugfixes";
             this.label2.UseWaitCursor = true;
             // 
             // label4
